@@ -1,7 +1,7 @@
 // _data/sites/[CATEGORY_NAME].js
 module.exports = {
-	name: "Mills", // optional, falls back to object key
-	description: "my site",
+	name: "netlify sites", // optional, falls back to object key
+	description: "My personal sites",
 	options: {
 		frequency: 60 * 23, // 23 hours
 
@@ -12,7 +12,7 @@ module.exports = {
 		freshChrome: "run",
 	},
 	urls: [
-		"https://www.millscreates.co.uk/",
+		"https://www.millscreates.co.uk/"
 		// etc
 	]
 };
